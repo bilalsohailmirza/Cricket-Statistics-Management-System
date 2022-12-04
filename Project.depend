@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1653343926 source:d:\fast\semester 2\oop\lab\project\with database\codeblocks\project\project\main.cpp
+	<iostream>
+	<cstdio>
+	<iomanip>
+	<windows.h>
+	<thread>
+	<chrono>
+	"sqlite3.h"
+	<cctype>
+	<algorithm>
+	<conio.h>
+
+1649711316 d:\fast\semester 2\oop\lab\project\with database\codeblocks\project\project\sqlite3.h
+	<stdarg.h>
+

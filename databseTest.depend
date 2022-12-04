@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1651671085 source:d:\fast\semester 2\oop\lab\project\with database\codeblocks\databasetest\databsetest\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	"sqlite3.h"
+
+1649711316 d:\fast\semester 2\oop\lab\project\with database\codeblocks\databasetest\databsetest\sqlite3.h
+	<stdarg.h>
+
+1651148345 source:d:\fast\semester 2\oop\lab\project\with database\codeblocks\databasetest\databsetest\semifinalfile.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	"sqlite3.h"
+
+1652995774 source:d:\fast\semester 2\oop\lab\project\with database\codeblocks\project\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	<windows.h>
+	<thread>
+	<chrono>
+	"sqlite3.h"
+	<cctype>
+	<algorithm>
+
+1649711316 d:\fast\semester 2\oop\lab\project\with database\codeblocks\project\project\sqlite3.h
+	<stdarg.h>
+
