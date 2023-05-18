@@ -33,5 +33,5 @@ so that also held me back a little bit.
 After writing quite some code I realized that I was writing c++ code very poorly.
 I had not seprate the class prototypes and definitions in header files and main file.
 I could reduce the number of classes and functions by making them more generic and alot more stuff could be done to
-optimize the process. But since this was my first time creating a project on my own I am content with what I was able to achieve in span of few days.
+optimize the process. But since this was my first time creating a project on my own, I am content with what I was able to achieve in span of few days.
 
